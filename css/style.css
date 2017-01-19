@@ -1,0 +1,17 @@
+thead{
+    background-color: forestgreen;
+    color:white;
+
+}
+th, td {
+    text-align: center;
+}
+th{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+caption{
+    font-size:1.2em;
+    font-weight: bold;
+    color: #000;
+}
