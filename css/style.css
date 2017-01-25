@@ -41,7 +41,7 @@ img {
 
 .agenda ul {
     color: #b45e52;
-    list-style-type: circle;
+    /*list-style-type: none;*/
 
     background-color: #fff;
     /*margin-top: 10px;*/
